@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643371063 source:e:\dsa work\linked_list\main.c
+	<stdlib.h>
+
+1643371043 source:e:\dsa work\linked_list\first.c
+	<stdio.h>
+

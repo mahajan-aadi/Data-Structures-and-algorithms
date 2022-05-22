@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650277308 source:e:\dsa work\hash\linear.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:e:\dsa work\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+
